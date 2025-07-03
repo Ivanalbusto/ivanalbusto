@@ -1,4 +1,4 @@
-![Diseño sin título](https://github.com/user-attachments/assets/9a685baa-ce0b-4c74-bc28-308ab7397a64)
+  ![Diseño sin título](https://github.com/user-attachments/assets/475ec692-2dc2-4dba-bdd9-f9212edd01c0)
 
 <h3> About Me </h3>
 
