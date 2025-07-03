@@ -29,7 +29,7 @@
   
 ## 🤝🏻&nbsp;Connect with Me 
 <p>
-<a href="[https://albustoivannazareno@gmail.com/](https://www.linkedin.com/in/iv%C3%A1n-nazareno-albusto-b55098231/)" target="_blank">
+<a href="https://www.linkedin.com/in/iv%C3%A1n-nazareno-albusto-b55098231/" target="_blank">
 <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff">
 <a href="https://albustoivannazareno@gmail.com/" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
