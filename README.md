@@ -2,9 +2,9 @@
 
 ## About me
 - 🔭 I’m looking for my first job in tencnology.
-- 💙 My favorite language: SQL
-- 🌱 I’m currently learning: Phyton 
-- 💬 Ask me about: anything, I am happy to help
+- 💙 My favorite language: SQL.
+- 🌱 I’m currently learning: Phyton.
+- 💬 Ask me about: anything, I am happy to help.
 
 <br/>
 
